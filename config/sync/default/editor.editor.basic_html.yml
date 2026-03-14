@@ -19,4 +19,5 @@ settings:
       - bulletedList
       - numberedList
   plugins: {  }
-image_upload: {  }
+image_upload:
+  status: false

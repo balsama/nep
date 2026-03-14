@@ -10,6 +10,7 @@ dependencies:
     - comment
     - contact
     - content_moderation
+    - file
     - filter
     - media
     - node
@@ -26,6 +27,7 @@ permissions:
   - 'access content'
   - 'access site-wide contact form'
   - 'create article content'
+  - 'delete own files'
   - 'post comments'
   - 'search content'
   - 'use content transition create_new_draft'

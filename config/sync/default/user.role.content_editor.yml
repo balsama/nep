@@ -35,6 +35,7 @@ permissions:
   - 'create media'
   - 'create terms in tags'
   - 'create url aliases'
+  - 'delete own files'
   - 'edit own article content'
   - 'edit own comments'
   - 'edit terms in tags'

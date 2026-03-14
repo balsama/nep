@@ -3,7 +3,7 @@ type: theme
 base theme: classy
 description: 'A flexible, recolorable theme with many regions and a responsive, mobile-first layout.'
 core: 8.x
-core_version_requirement: ^9 || ^10
+core_version_requirement: ^9 || ^10 || ^11
 libraries:
   - magazine_lite/fontawesome
   - magazine_lite/global-styling

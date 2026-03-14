@@ -168,6 +168,7 @@ display:
             offset: false
             offset_label: Offset
           quantity: 4
+          pagination_heading_level: h4
       exposed_form:
         type: basic
         options:
@@ -257,8 +258,6 @@ display:
             multiple: false
             remember_roles:
               authenticated: authenticated
-              anonymous: '0'
-              administrator: '0'
             placeholder: ''
           is_grouped: false
           group_info:

@@ -4,9 +4,11 @@ status: true
 dependencies:
   module:
     - comment
+    - file
 id: trusted_commenter
 label: 'Trusted Commenter'
 weight: 5
 is_admin: null
 permissions:
+  - 'delete own files'
   - 'skip comment approval'

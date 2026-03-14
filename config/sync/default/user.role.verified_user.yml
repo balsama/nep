@@ -9,6 +9,7 @@ dependencies:
     - media.type.remote_video
     - media.type.tweet
   module:
+    - file
     - filter
     - media
 id: verified_user
@@ -20,4 +21,5 @@ permissions:
   - 'create instagram media'
   - 'create remote_video media'
   - 'create tweet media'
+  - 'delete own files'
   - 'use text format basic_html_media'
