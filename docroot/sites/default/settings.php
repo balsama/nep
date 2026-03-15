@@ -707,6 +707,7 @@ $settings['container_yamls'][] = $app_root . '/' . $site_path . '/services.yml';
 $settings['trusted_host_patterns'] = [
   '^northend.page$',
   '^localhost$',
+  '^134\\.122\\.4\\.103$',
 ];
 
 /**
